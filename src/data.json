@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/sfz3-bison_thumb.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/sfz3-blanka_thumb.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/sfz3-chun-li_thumb.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/sfz3-dhalsim_thumb.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/sfz3-ehonda_thumb.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/sfz3-gouki_thumb.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/sfz3-ken_thumb.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/sfz3-ryu_thumb.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/sfz3-sagat_thumb.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/sfz3-sakura_thumb.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/sfz3-vega_thumb.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/sfz3-zangief_thumb.jpg",
+    "clicked": false
+  }
+]
